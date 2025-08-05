@@ -1,0 +1,1262 @@
+[
+ {
+   "provincia": "CHACHAPOYAS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHACHAPOYAS"
+ },
+ {
+   "provincia": "CHACHAPOYAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHILIQUIN"
+ },
+ {
+   "provincia": "BONGARA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE BONGARA - JUMBILLA"
+ },
+ {
+   "provincia": "BONGARA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE VALERA"
+ },
+ {
+   "provincia": "CONDORCANQUI",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CONDORCANQUI - NIEVA"
+ },
+ {
+   "provincia": "CONDORCANQUI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE RIO SANTIAGO"
+ },
+ {
+   "provincia": "LUYA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MARIA"
+ },
+ {
+   "provincia": "RODRIGUEZ DE MENDOZA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LIMABAMBA"
+ },
+ {
+   "provincia": "UCTUBAMBA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE UTCUBAMBA - BAGUA GRANDE"
+ },
+ {
+   "provincia": "UCTUBAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE JAMALCA"
+ },
+ {
+   "provincia": "HUARAZ",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUARAZ"
+ },
+ {
+   "provincia": "HUARAZ",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE INDEPENDENCIA"
+ },
+ {
+   "provincia": "CARLOS FERMIN FITZCARRALD",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CARLOS FERMIN FITZCARRALD"
+ },
+ {
+   "provincia": "CASMA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CASMA"
+ },
+ {
+   "provincia": "HUARI",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUARI"
+ },
+ {
+   "provincia": "HUARI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CAJAY"
+ },
+ {
+   "provincia": "HUARI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHAVIN DE HUANTAR"
+ },
+ {
+   "provincia": "HUARI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUACACHI"
+ },
+ {
+   "provincia": "HUARI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUACHIS"
+ },
+ {
+   "provincia": "HUARI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PONTO"
+ },
+ {
+   "provincia": "HUARI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN MARCOS"
+ },
+ {
+   "provincia": "HUARMEY",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUARMEY"
+ },
+ {
+   "provincia": "HUAYLAS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUAYLAS - CARAZ"
+ },
+ {
+   "provincia": "HUAYLAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PAMPAROMAS"
+ },
+ {
+   "provincia": "SANTA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DEL SANTA - CHIMBOTE"
+ },
+ {
+   "provincia": "SANTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE NEPEÃA"
+ },
+ {
+   "provincia": "SANTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE NUEVO CHIMBOTE"
+ },
+ {
+   "provincia": "YUNGAY",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE QUILLO"
+ },
+ {
+   "provincia": "ABANCAY",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ABANCAY"
+ },
+ {
+   "provincia": "ABANCAY",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CURAHUASI"
+ },
+ {
+   "provincia": "ANDAHUAYLAS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ANDAHUAYLAS"
+ },
+ {
+   "provincia": "ANDAHUAYLAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUANCARAY"
+ },
+ {
+   "provincia": "ANDAHUAYLAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PAMPACHIRI"
+ },
+ {
+   "provincia": "COTABAMBA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE COTABAMBAS - TAMBOBAMBA"
+ },
+ {
+   "provincia": "COTABAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE COTABAMBAS"
+ },
+ {
+   "provincia": "COTABAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE COYLLURQUI"
+ },
+ {
+   "provincia": "COTABAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HAQUIRA"
+ },
+ {
+   "provincia": "COTABAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHALLHUAHUACHO"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE AREQUIPA"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CAYMA"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CERRO COLORADO"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE JACOBO HUNTER"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LA JOYA"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MARIANO MELGAR"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MIRAFLORES"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PAUCARPATA"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE TARUCANI"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SOCABAYA"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TIABAYA"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE UCHUMAYO"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE YARABAMBA"
+ },
+ {
+   "provincia": "AREQUIPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE YURA"
+ },
+ {
+   "provincia": "CASTILLA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CASTILLA - APLAO"
+ },
+ {
+   "provincia": "CAYLLOMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MAJES"
+ },
+ {
+   "provincia": "ISLAY",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ISLAY - MOLLENDO"
+ },
+ {
+   "provincia": "HUAMANGA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUAMANGA"
+ },
+ {
+   "provincia": "HUAMANGA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JOSE DE TICLLAS"
+ },
+ {
+   "provincia": "HUAMANGA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JUAN BAUTISTA"
+ },
+ {
+   "provincia": "HUAMANGA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTIAGO DE PISCHA"
+ },
+ {
+   "provincia": "HUAMANGA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE VINCHOS"
+ },
+ {
+   "provincia": "CANGALLO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHUSCHI"
+ },
+ {
+   "provincia": "CANGALLO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MARIA PARADO DE BELLIDO"
+ },
+ {
+   "provincia": "HUANTA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUANTA"
+ },
+ {
+   "provincia": "HUANTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUAMANGUILLA"
+ },
+ {
+   "provincia": "HUANTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CANAYRE"
+ },
+ {
+   "provincia": "HUANTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHACA"
+ },
+ {
+   "provincia": "LA MAR",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE LA MAR - SAN MIGUEL"
+ },
+ {
+   "provincia": "LA MAR",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE AYNA"
+ },
+ {
+   "provincia": "LA MAR",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LUIS CARRANZA"
+ },
+ {
+   "provincia": "LUCANAS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE LUCANAS - PUQUIO"
+ },
+ {
+   "provincia": "PARINACOCHAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PUYUSCA"
+ },
+ {
+   "provincia": "VILCASHUAMAN",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE VILCAS HUAMAN"
+ },
+ {
+   "provincia": "CAJAMARCA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CAJAMARCA"
+ },
+ {
+   "provincia": "CAJAMARCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHETILLA"
+ },
+ {
+   "provincia": "CAJAMARCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ENCAÃADA"
+ },
+ {
+   "provincia": "CAJAMARCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LOS BAÂ¥OS DEL INCA"
+ },
+ {
+   "provincia": "CAJABAMBA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CAJABAMBA"
+ },
+ {
+   "provincia": "CAJABAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CACHACHI"
+ },
+ {
+   "provincia": "CELENDIN",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CELENDIN"
+ },
+ {
+   "provincia": "CELENDIN",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHUMUCH"
+ },
+ {
+   "provincia": "CHOTA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHOTA"
+ },
+ {
+   "provincia": "CHOTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TACABAMBA"
+ },
+ {
+   "provincia": "CONTUMAZA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CONTUMAZA"
+ },
+ {
+   "provincia": "CUTERVO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CUTERVO"
+ },
+ {
+   "provincia": "HUALGAYOC",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUALGAYOC - BAMBAMARCA"
+ },
+ {
+   "provincia": "HUALGAYOC",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUALGAYOC"
+ },
+ {
+   "provincia": "JAEN",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE JAEN"
+ },
+ {
+   "provincia": "JAEN",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE COLASAY"
+ },
+ {
+   "provincia": "JAEN",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE POMAHUACA"
+ },
+ {
+   "provincia": "JAEN",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTA ROSA"
+ },
+ {
+   "provincia": "SAN IGNACIO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SAN IGNACIO"
+ },
+ {
+   "provincia": "SAN IGNACIO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHIRINOS"
+ },
+ {
+   "provincia": "SAN IGNACIO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUARANGO"
+ },
+ {
+   "provincia": "SAN MARCOS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE GREGORIO PITA"
+ },
+ {
+   "provincia": "SAN MIGUEL",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SAN MIGUEL"
+ },
+ {
+   "provincia": "SANTA CRUZ",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SANTA CRUZ"
+ },
+ {
+   "provincia": "PROV. CALLAO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DEL CALLAO"
+ },
+ {
+   "provincia": "PROV. CALLAO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE VENTANILLA"
+ },
+ {
+   "provincia": "CUSCO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DEL CUZCO"
+ },
+ {
+   "provincia": "CUSCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JERONIMO"
+ },
+ {
+   "provincia": "CUSCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN SEBASTIAN"
+ },
+ {
+   "provincia": "CUSCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTIAGO"
+ },
+ {
+   "provincia": "ANTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ANCAHUASI"
+ },
+ {
+   "provincia": "CALCA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CALCA"
+ },
+ {
+   "provincia": "CANCHIS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CANCHIS - SICUANI"
+ },
+ {
+   "provincia": "CHUMBIVILCAS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHUMBIVILCAS - SANTO TOMAS"
+ },
+ {
+   "provincia": "CHUMBIVILCAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE COLQUEMARCA"
+ },
+ {
+   "provincia": "CHUMBIVILCAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LIVITACA"
+ },
+ {
+   "provincia": "ESPINAR",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ESPINAR"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE LA CONVENCION - SANTA ANA"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ECHARATI"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE QUELLOUNO"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE QUIMBIRI"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTA TERESA"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE VILCABAMBA"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PICHARI"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MEGANTONI"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE KUMPIRUSHIATO"
+ },
+ {
+   "provincia": "LA CONVENCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE UNION ASHANINKA"
+ },
+ {
+   "provincia": "QUISPICANCHIS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE OCONGATE"
+ },
+ {
+   "provincia": "URUBAMBA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE URUBAMBA"
+ },
+ {
+   "provincia": "HUANCAVELICA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUANCAVELICA"
+ },
+ {
+   "provincia": "HUANCAVELICA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ACORIA"
+ },
+ {
+   "provincia": "HUANCAVELICA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE YAULI"
+ },
+ {
+   "provincia": "HUANCAVELICA",
+   "entidad": "MUNICIPALIDAD DISTRITAL ASCENSION"
+ },
+ {
+   "provincia": "ACOBAMBA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ACOBAMBA"
+ },
+ {
+   "provincia": "ACOBAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PAUCARA"
+ },
+ {
+   "provincia": "ANGARAES",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ANGARAES - LIRCAY"
+ },
+ {
+   "provincia": "CHURCAMPA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHURCAMPA"
+ },
+ {
+   "provincia": "HUAYTARA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PILPICHACA"
+ },
+ {
+   "provincia": "TAYACAJA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE TAYACAJA - PAMPAS"
+ },
+ {
+   "provincia": "TAYACAJA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE COLCABAMBA"
+ },
+ {
+   "provincia": "TAYACAJA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE DANIEL HERNANDES"
+ },
+ {
+   "provincia": "TAYACAJA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TINTAY PUNCU"
+ },
+ {
+   "provincia": "TAYACAJA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE QUICHUAS"
+ },
+ {
+   "provincia": "HUANUCO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUANUCO"
+ },
+ {
+   "provincia": "HUANUCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE AMARILIS"
+ },
+ {
+   "provincia": "HUANUCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHURUBAMBA"
+ },
+ {
+   "provincia": "AMBO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE AMBO"
+ },
+ {
+   "provincia": "AMBO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE COLPAS"
+ },
+ {
+   "provincia": "HUAMALIES",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MONZON"
+ },
+ {
+   "provincia": "LEONCIO PRADO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE LEONCIO PRADO - RUPA RUPA"
+ },
+ {
+   "provincia": "MARANON",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MARAÃON - HUACRACHUCO"
+ },
+ {
+   "provincia": "PACHITEA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PACHITEA - PANAO"
+ },
+ {
+   "provincia": "PACHITEA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHAGLLA"
+ },
+ {
+   "provincia": "PACHITEA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE UMARI"
+ },
+ {
+   "provincia": "PUERTO INCA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PUERTO INCA"
+ },
+ {
+   "provincia": "PUERTO INCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CODO DE POZUZO"
+ },
+ {
+   "provincia": "PUERTO INCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TOURNAVISTA"
+ },
+ {
+   "provincia": "PUERTO INCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE YUYAPICHIS"
+ },
+ {
+   "provincia": "ICA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ICA"
+ },
+ {
+   "provincia": "ICA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PARCONA"
+ },
+ {
+   "provincia": "ICA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SALAS"
+ },
+ {
+   "provincia": "ICA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SUBTANJALLA"
+ },
+ {
+   "provincia": "CHINCHA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHINCHA - CHINCHA ALTA"
+ },
+ {
+   "provincia": "CHINCHA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PUEBLO NUEVO"
+ },
+ {
+   "provincia": "NAZCA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE NASCA"
+ },
+ {
+   "provincia": "NAZCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MARCONA"
+ },
+ {
+   "provincia": "NAZCA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE VISTA ALEGRE"
+ },
+ {
+   "provincia": "PISCO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PISCO"
+ },
+ {
+   "provincia": "HUANCAYO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUANCAYO"
+ },
+ {
+   "provincia": "HUANCAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE EL TAMBO"
+ },
+ {
+   "provincia": "HUANCAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PUCARA"
+ },
+ {
+   "provincia": "HUANCAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SICAYA"
+ },
+ {
+   "provincia": "CONCEPCION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHAMBARA"
+ },
+ {
+   "provincia": "CHANCHAMAYO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHANCHAMAYO"
+ },
+ {
+   "provincia": "CHANCHAMAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PERENE"
+ },
+ {
+   "provincia": "CHANCHAMAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PICHANAQUI"
+ },
+ {
+   "provincia": "JAUJA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE JAUJA"
+ },
+ {
+   "provincia": "SATIPO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SATIPO"
+ },
+ {
+   "provincia": "SATIPO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MAZAMARI"
+ },
+ {
+   "provincia": "SATIPO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PANGOA"
+ },
+ {
+   "provincia": "SATIPO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE RIO TAMBO"
+ },
+ {
+   "provincia": "YAULI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MOROCOCHA"
+ },
+ {
+   "provincia": "CHUPACA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE YANACANCHA"
+ },
+ {
+   "provincia": "TRUJILLO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE TRUJILLO"
+ },
+ {
+   "provincia": "TRUJILLO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE EL PORVENIR"
+ },
+ {
+   "provincia": "TRUJILLO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUANCHACO"
+ },
+ {
+   "provincia": "TRUJILLO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LA ESPERANZA"
+ },
+ {
+   "provincia": "BOLIVAR",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LONGOTEA"
+ },
+ {
+   "provincia": "CHEPEN",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHEPEN"
+ },
+ {
+   "provincia": "OTUZCO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE OTUZCO"
+ },
+ {
+   "provincia": "OTUZCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUARANCHAL"
+ },
+ {
+   "provincia": "PACASMAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JOSE"
+ },
+ {
+   "provincia": "PATAZ",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PATAZ - TAYABAMBA"
+ },
+ {
+   "provincia": "PATAZ",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PARCOY"
+ },
+ {
+   "provincia": "SANCHEZ CARRION",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SANCHEZ CARRION - HUAMACHUCO"
+ },
+ {
+   "provincia": "SANCHEZ CARRION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MARCABAL"
+ },
+ {
+   "provincia": "SANTIAGO DE CHUCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ANGASMARCA"
+ },
+ {
+   "provincia": "SANTIAGO DE CHUCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE QUIRUVILCA"
+ },
+ {
+   "provincia": "VIRU",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE VIRU"
+ },
+ {
+   "provincia": "VIRU",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHAO"
+ },
+ {
+   "provincia": "CHICLAYO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHICLAYO"
+ },
+ {
+   "provincia": "CHICLAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE JOSE LEONARDO ORTIZ"
+ },
+ {
+   "provincia": "LAMBAYEQUE",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE LAMBAYEQUE"
+ },
+ {
+   "provincia": "LAMBAYEQUE",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ILLIMO"
+ },
+ {
+   "provincia": "LAMBAYEQUE",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE OLMOS"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD METROPOLITANA DE LIMA"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ATE - VITARTE"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CARABAYLLO"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHORRILLOS"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE EL AGUSTINO"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MIRAFLORES"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN ISIDRO"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTIAGO DE SURCO"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR"
+ },
+ {
+   "provincia": "LIMA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE VILLA MARIA DEL TRIUNFO"
+ },
+ {
+   "provincia": "BARRANCA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE BARRANCA"
+ },
+ {
+   "provincia": "CANTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTA ROSA DE QUIVES"
+ },
+ {
+   "provincia": "CANETE",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CAÃETE - SAN VICENTE DE CAÃETE"
+ },
+ {
+   "provincia": "HUARAL",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUARAL"
+ },
+ {
+   "provincia": "HUARAL",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHANCAY"
+ },
+ {
+   "provincia": "HUAURA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUAURA"
+ },
+ {
+   "provincia": "YAUYOS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE YAUYOS"
+ },
+ {
+   "provincia": "MAYNAS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MAYNAS - IQUITOS"
+ },
+ {
+   "provincia": "MAYNAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN JUAN BAUTISTA"
+ },
+ {
+   "provincia": "ALTO AMAZONAS",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DEL ALTO AMAZONAS - YURIMAGUAS"
+ },
+ {
+   "provincia": "ALTO AMAZONAS",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE BALSAPUERTO"
+ },
+ {
+   "provincia": "LORETO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE LORETO - NAUTA"
+ },
+ {
+   "provincia": "RAMON CASTILLA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MARISCAL RAMON CASTILLA"
+ },
+ {
+   "provincia": "REQUENA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE REQUENA"
+ },
+ {
+   "provincia": "UCAYALI",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE UCAYALI - CONTAMANA"
+ },
+ {
+   "provincia": "UCAYALI",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SARAYACU"
+ },
+ {
+   "provincia": "DATEM DEL MARAÃON",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE DATEM DEL MARAÃON"
+ },
+ {
+   "provincia": "PUTUMAYO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE YAGUAS"
+ },
+ {
+   "provincia": "TAMBOPATA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE TAMBOPATA"
+ },
+ {
+   "provincia": "TAHUAMANU",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TAHUAMANU"
+ },
+ {
+   "provincia": "MARISCAL NIETO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MARISCAL NIETO - MOQUEGUA"
+ },
+ {
+   "provincia": "MARISCAL NIETO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TORATA"
+ },
+ {
+   "provincia": "MARISCAL NIETO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN ANTONIO"
+ },
+ {
+   "provincia": "ILO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ILO"
+ },
+ {
+   "provincia": "ILO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE EL ALGARROBAL"
+ },
+ {
+   "provincia": "PASCO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PAUCARTAMBO"
+ },
+ {
+   "provincia": "DANIEL A. CARRION",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE DANIEL A. CARRION - YANAHUANCA"
+ },
+ {
+   "provincia": "DANIEL A. CARRION",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTA ANA DE TUSI"
+ },
+ {
+   "provincia": "OXAPAMPA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE OXAPAMPA"
+ },
+ {
+   "provincia": "OXAPAMPA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PUERTO BERMUDEZ"
+ },
+ {
+   "provincia": "PIURA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PIURA"
+ },
+ {
+   "provincia": "PIURA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CASTILLA"
+ },
+ {
+   "provincia": "PIURA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CATACAOS"
+ },
+ {
+   "provincia": "PIURA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LA UNION"
+ },
+ {
+   "provincia": "PIURA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LAS LOMAS"
+ },
+ {
+   "provincia": "PIURA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TAMBO GRANDE"
+ },
+ {
+   "provincia": "PIURA",
+   "entidad": "MUNICIPALIDAD DISTRITAL VEINTISEIS DE OCTUBRE"
+ },
+ {
+   "provincia": "AYABACA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE AYABACA"
+ },
+ {
+   "provincia": "AYABACA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE FRIAS"
+ },
+ {
+   "provincia": "AYABACA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MONTERO"
+ },
+ {
+   "provincia": "AYABACA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SUYO"
+ },
+ {
+   "provincia": "HUANCABAMBA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUANCABAMBA"
+ },
+ {
+   "provincia": "HUANCABAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUARMACA"
+ },
+ {
+   "provincia": "MORROPON",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MORROPON - CHULUCANAS"
+ },
+ {
+   "provincia": "MORROPON",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CHALACO"
+ },
+ {
+   "provincia": "PAITA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PAITA"
+ },
+ {
+   "provincia": "SULLANA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SULLANA"
+ },
+ {
+   "provincia": "TALARA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE TALARA - PARIÃAS"
+ },
+ {
+   "provincia": "SECHURA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SECHURA"
+ },
+ {
+   "provincia": "SECHURA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE BERNAL"
+ },
+ {
+   "provincia": "PUNO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PUNO"
+ },
+ {
+   "provincia": "AZANGARO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE AZANGARO"
+ },
+ {
+   "provincia": "AZANGARO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ASILLO"
+ },
+ {
+   "provincia": "CARABAYA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CARABAYA - MACUSANI"
+ },
+ {
+   "provincia": "CARABAYA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE AJOYANI"
+ },
+ {
+   "provincia": "CARABAYA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE AYAPATA"
+ },
+ {
+   "provincia": "CARABAYA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CORANI"
+ },
+ {
+   "provincia": "CARABAYA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN GABAN"
+ },
+ {
+   "provincia": "CARABAYA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE USICAYOS"
+ },
+ {
+   "provincia": "CHUCUITO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CHUCUITO - JULI"
+ },
+ {
+   "provincia": "CHUCUITO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE HUACULLANI"
+ },
+ {
+   "provincia": "CHUCUITO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE POMATA"
+ },
+ {
+   "provincia": "CHUCUITO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ZEPITA"
+ },
+ {
+   "provincia": "EL COLLAO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL EL COLLAO - ILAVE"
+ },
+ {
+   "provincia": "HUANCANE",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE HUANCANE"
+ },
+ {
+   "provincia": "MELGAR",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MELGAR - AYAVIRI"
+ },
+ {
+   "provincia": "MELGAR",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ANTAUTA"
+ },
+ {
+   "provincia": "MELGAR",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SANTA ROSA"
+ },
+ {
+   "provincia": "MELGAR",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE UMACHIRI"
+ },
+ {
+   "provincia": "SAN ANTONIO DE PUTINA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SAN ANTONIO DE PUTINA"
+ },
+ {
+   "provincia": "SAN ANTONIO DE PUTINA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ANANEA"
+ },
+ {
+   "provincia": "SAN ROMAN",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SAN ROMAN - JULIACA"
+ },
+ {
+   "provincia": "SAN ROMAN",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SAN MIGUEL"
+ },
+ {
+   "provincia": "SANDIA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SANDIA"
+ },
+ {
+   "provincia": "MOYOBAMBA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MOYOBAMBA"
+ },
+ {
+   "provincia": "MOYOBAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE JEPELACIO"
+ },
+ {
+   "provincia": "MOYOBAMBA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE SORITOR"
+ },
+ {
+   "provincia": "MARISCAL CACERES",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE MARISCAL CACERES - JUANJUI"
+ },
+ {
+   "provincia": "PICOTA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PICOTA"
+ },
+ {
+   "provincia": "PICOTA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE PUCACACA"
+ },
+ {
+   "provincia": "RIOJA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE AWAJUN"
+ },
+ {
+   "provincia": "RIOJA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE NUEVA CAJAMARCA"
+ },
+ {
+   "provincia": "SAN MARTIN",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE SAN MARTIN - TARAPOTO"
+ },
+ {
+   "provincia": "SAN MARTIN",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE LA BANDA DE SHILCAYO"
+ },
+ {
+   "provincia": "SAN MARTIN",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MORALES"
+ },
+ {
+   "provincia": "TOCACHE",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE TOCACHE"
+ },
+ {
+   "provincia": "TACNA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE TACNA"
+ },
+ {
+   "provincia": "TACNA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ALTO DE LA ALIANZA"
+ },
+ {
+   "provincia": "TACNA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CIUDAD NUEVA"
+ },
+ {
+   "provincia": "TACNA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE CORONEL GREGORIO ALBARRACIN LANCHIPA"
+ },
+ {
+   "provincia": "JORGE BASADRE",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE JORGE BASADRE - LOCUMBA"
+ },
+ {
+   "provincia": "JORGE BASADRE",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ILABAYA"
+ },
+ {
+   "provincia": "JORGE BASADRE",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ITE"
+ },
+ {
+   "provincia": "TUMBES",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE TUMBES"
+ },
+ {
+   "provincia": "CONTRALMIRANTE VILLAR",
+   "entidad": "MUNICIPALIDAD DISTRITAL CANOAS DE PUNTA SAL"
+ },
+ {
+   "provincia": "ZARUMILLA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ZARUMILLA"
+ },
+ {
+   "provincia": "CORONEL PORTILLO",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE CORONEL PORTILLO"
+ },
+ {
+   "provincia": "CORONEL PORTILLO",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE MANANTAY"
+ },
+ {
+   "provincia": "ATALAYA",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE ATALAYA - RAYMONDI"
+ },
+ {
+   "provincia": "ATALAYA",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE TAHUANIA"
+ },
+ {
+   "provincia": "PADRE ABAD",
+   "entidad": "MUNICIPALIDAD PROVINCIAL DE PADRE ABAD - AGUAITIA"
+ },
+ {
+   "provincia": "PADRE ABAD",
+   "entidad": "MUNICIPALIDAD DISTRITAL DE ALEXANDER VON HUMBOLDT"
+ }
+]
